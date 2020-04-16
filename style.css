@@ -17,6 +17,7 @@ body{
     word-wrap: break-word;
     border: 1px solid #e6b800;
     border-right: none;  
+    justify-content: space-between
 }
 .cashe{
     display: none;
@@ -40,6 +41,12 @@ a{
     color:#37474F;
     text-align: justify;
     font-size: 1.2em;
+}
+#section1 ul{
+  padding-left: 3em;
+    margin: -2em auto 0;
+    font-size: 1.2em;
+    color:#37474F;
 }
 #section1 h2{
     text-align: center;
@@ -97,6 +104,13 @@ hr{
     padding-bottom: 0.4em;
     font-size:2em;
     padding-left: 2em;
+}
+#section2 ul{
+    padding-top: 1em;
+}
+#section2 li{
+    font-size: .7em;
+    margin-left: 2em;
 }
 .travail{
   display: flex;
