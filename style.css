@@ -73,6 +73,7 @@ a{
     flex-direction: column;
     border: 1px solid black;
     border-left: none;
+    word-wrap: break-word;
 }
 #parcour{
     width: 90%;
