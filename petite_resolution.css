@@ -5,6 +5,7 @@
     }
     #section1{
         width:100%;
+        border: none;
         
     }
     #section1 p{
@@ -49,6 +50,7 @@
     
     #section2{
         width: 100%;
+        border: none;
     }
     
     .hide{
