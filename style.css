@@ -214,6 +214,7 @@ hr{
     #section2{
         width: 100%;
         border: none;
+        word-wrap: break-word;
     }
     
     .hide{
