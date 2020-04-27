@@ -67,7 +67,7 @@ a{
 
 
 /*Début du côté droit*/
-main{  
+.right_side{  
     width: 70%; 
     border: 1px solid black;
     border-left: none;
@@ -156,7 +156,7 @@ aside{
         flex-direction: column;
         justify-content: space-between;
     }
-    main{
+    .right_side{
         width: auto;
         padding: 0;
         margin-left: .5em;
